@@ -7,4 +7,4 @@ Dentre as ferramentas fornecidas pelo k8s para acesso e controle dos containers 
 dentre os principais comandos estão:
 
 - __run__: inicia um novo pod com base em uma imagem. que pode estar alocada localmente ou em um repositório de imagens como o docker hub.
-  - exemplo: 'kubectl run nginx-pod --image=nginx:latest'
+  - __exemplo:__ `kubectl run nginx-pod --image=nginx:latest`
