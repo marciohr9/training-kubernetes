@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# configuration and local files of the vagrant machine
+.vagrant
