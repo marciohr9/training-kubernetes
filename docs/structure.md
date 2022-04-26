@@ -1,5 +1,9 @@
 # Como funciona a estrutura do Kubernetes
 
-## Uso de _Pods_
+## Pod's
 
-[em construção].
+Pods são... [em construção].
+
+
+## Services
+
