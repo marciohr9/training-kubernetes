@@ -23,3 +23,7 @@ dentre os principais comandos estão:
 
 - **delete:** usada para efetuar ações de remoção dentro do k8s com o kubectl. Utilizando a tag `-f` você pode remover pods que foram criados de maneira declarativa utilizando arquivos de configuração.
   - **exemplo:** `kubectl delete pod nginx-pod`
+
+- **annotate:**
+
+- **rollout:**

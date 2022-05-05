@@ -4,6 +4,10 @@
 
 Pods são... [em construção].
 
-
 ## Services
 
+## Config Map
+
+## Replica Set
+
+## Deployment
