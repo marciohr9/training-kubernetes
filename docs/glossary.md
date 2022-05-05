@@ -27,3 +27,5 @@ dentre os principais comandos estão:
 - **annotate:**
 
 - **rollout:**
+  - **undo:**
+  - **history:**
