@@ -5,7 +5,7 @@ metadata:
 spec:
   type: NodePort
   selector:
-    name: sistema-noticias
+    app: sistema-noticias
   ports:
   - port: 80
     targetPort: 80
