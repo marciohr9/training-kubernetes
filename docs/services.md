@@ -1,6 +1,6 @@
-# Serviços usados para configurar e manter um cluster em funcionamento
+# Some definitions and examples of a group of pre-made services "necessary" to build and mantain a kubernets cluster running
 
-[em construção].
+[under construction].
 
 ## Networks (flannel / Calico / Cilium / Kube-router)
 
@@ -15,3 +15,9 @@
 ## Volume Controller (Longhorn / etc.)
 
 ## certification (cert-manager with letsencrypt)
+
+## Helm (a "package manager" for ur application structure)
+
+- **Chart**
+- **Release**
+- **Repository**

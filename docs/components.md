@@ -12,7 +12,11 @@
 - **ClusterIP**
 - **NodePort**
 
+## Ingress
+
 ## Config Map
+
+## Secret
 
 ## PV (Persistent Volumes) and PVC
 
